@@ -693,7 +693,7 @@ int tcp_ssl_read(struct tcp_pcb *tcp, struct pbuf *p)
 
   do
   {
-    if (tcp_ssl->ssl_ctx.state != MBEDTLS_SSL_HANDSHAKE_OVER)
+    if (!mbedtls_ssl_is_handshake_over(&(tcp_ssl->ssl_ctx)))
     {
       //KH to print once
       if (!debugPrinted)
