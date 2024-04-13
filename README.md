@@ -1,15 +1,5 @@
 # AsyncTCP_SSL Library
 
-[![arduino-library-badge](https://www.ardu-badge.com/badge/AsyncTCP_SSL.svg?)](https://www.ardu-badge.com/AsyncTCP_SSL)
-[![GitHub release](https://img.shields.io/github/release/khoih-prog/AsyncTCP_SSL.svg)](https://github.com/khoih-prog/AsyncTCP_SSL/releases)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#Contributing)
-[![GitHub issues](https://img.shields.io/github/issues/khoih-prog/AsyncTCP_SSL.svg)](http://github.com/khoih-prog/AsyncTCP_SSL/issues)
-
-
-<a href="https://www.buymeacoffee.com/khoihprog6" title="Donate to my libraries using BuyMeACoffee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Donate to my libraries using BuyMeACoffee" style="height: 50px !important;width: 181px !important;" ></a>
-<a href="https://www.buymeacoffee.com/khoihprog6" title="Donate to my libraries using BuyMeACoffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange.svg?logo=buy-me-a-coffee&logoColor=FFDD00" style="height: 20px !important;width: 200px !important;" ></a>
-
----
 ---
 
 ## Table of contents
@@ -123,8 +113,7 @@ to apply the better and faster **asynchronous** feature of the **powerful** [Asy
 
 ### Use Arduino Library Manager
 
-The best and easiest way is to use `Arduino Library Manager`. Search for [**AsyncTCP_SSL**](https://github.com/khoih-prog/AsyncTCP_SSL), then select / install the latest version.
-You can also use this link [![arduino-library-badge](https://www.ardu-badge.com/badge/AsyncTCP_SSL.svg?)](https://www.ardu-badge.com/AsyncTCP_SSL) for more detailed instructions.
+Not Available...
 
 ### Manual Install
 
@@ -550,15 +539,13 @@ Sometimes, the library will only work if you update the board core to the latest
 
 ### Issues
 
-Submit issues to: [AsyncTCP_SSL issues](https://github.com/khoih-prog/AsyncTCP_SSL/issues)
+Submit issues to: [AsyncTCP_SSL issues](https://github.com/microfoundry/AsyncTCP_SSL/issues)
 
 ---
 
 ## TO DO
 
 1. Search for bug and improvement.
-2. Similar Async SSL libraries for ESP8266, STM32, Portenta_H7 and many other boards
-3. Permit both HTTP and HTTPS
 
 ---
 
@@ -588,6 +575,7 @@ Many thanks for everyone for bug reporting, new feature suggesting, testing and 
 1. Based on and modified from [Hristo Gochkov's AsyncTCP](https://github.com/me-no-dev/AsyncTCP). Many thanks to [Hristo Gochkov](https://github.com/me-no-dev) for great [AsyncTCP Library](https://github.com/me-no-dev/AsyncTCP)
 2. Based on [Maarten Fremouw's AsyncTCP Library](https://github.com/fremouw/AsyncTCP).
 3. Based on [Thorsten von Eicken's AsyncTCP Library](https://github.com/tve/AsyncTCP).
+4. Based on [Khoi Hoang's AsyncTCP_SSL Library](https://github.com/khoih-prog/AsyncTCP_SSL).
 
 <table>
   <tr>
@@ -622,5 +610,6 @@ If you want to contribute to this project:
 - Copyright (c) 2019- Maarten Fremouw
 - Copyright (c) 2019- Thorsten von Eicken
 - Copyright (c) 2021- Khoi Hoang
+- Copyright (c) 2024- Terry Phillips
 
 
